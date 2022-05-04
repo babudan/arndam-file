@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    padding-left: 500px;
+    background-color: blueviolet;
+    font-size: 60px;
+}
+.heading{
+    background: grey;
+}
+h2{
+    color: violet;
+    margin-left: 50px;
+    text-shadow: 5px 5px 4px red;
+}
+.gallery{
+    float: left;
+    width: 33.33%;
+    padding: 3px;
+    margin-bottom: 20px;
+    background-color: grey;
+    
+}
+.gallery1{
+    float: left;
+    width: 33.33%;
+    padding: 3px;
+    }
+    .desc{
+        width: 80%;
+        color: yellowgreen;
+        text-shadow: 5px 5px 4px brown;
+    }
+.
